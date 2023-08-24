@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **akrangare@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bhw_xG-pYRcaFsnprtLEshQ-Xn3tvRJF/view?usp=sharing](https://drive.google.com/file/d/1Bhw_xG-pYRcaFsnprtLEshQ-Xn3tvRJF/view?usp=sharing)
+- 📄 Know about my experiences [Download Resume](https://bit.ly/45mH2sW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
