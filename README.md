@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend or Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/adarshrangare/overview](https://app.netlify.com/teams/adarshrangare/overview)
+- 👨‍💻 All of my projects are available at [Netlify](https://app.netlify.com/teams/adarshrangare/overview)
 
 - 💬 Ask me about **DSA, JAVA, Vanila CSS and JS, MongoDB, SQL**
 
