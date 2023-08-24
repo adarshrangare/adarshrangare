@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **akrangare@gmail.com**
 
-- 📄 Know about my experiences [Download Resume](https://bit.ly/45mH2sW)
+- 📄 Know about my experiences [Download Resume](https://bit.ly/AdarshResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
