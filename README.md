@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akrangare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akrangare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarsh-rangare-a4572b100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-rangare-a4572b100/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarshrangare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-rangare-a4572b100/" height="30" width="40" /></a>
 <a href="https://instagram.com/adarsh.ad007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh.ad007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarsh7824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh7824" height="30" width="40" /></a>
 </p>
