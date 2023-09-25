@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Netlify](https://app.netlify.com/teams/adarshrangare/overview)
 
-- 💬 Ask me about **DSA, JAVA, Vanila CSS and JS, MongoDB, SQL**
+- 💬 Ask me about **DSA, JAVA, HTML,CSS and JS, React, MongoDB, SQL**
 
 - 📫 How to reach me **akrangare@gmail.com**
 
