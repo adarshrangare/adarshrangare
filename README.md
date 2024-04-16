@@ -31,7 +31,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshrangare&show_icons=true&locale=en&layout=compact" alt="adarshrangare" /></p>
-<br>
+<be>
+Hello
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshrangare&show_icons=true&locale=en" alt="adarshrangare" /></p>
 <br>
+Hello
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshrangare&" alt="adarshrangare" /></p>
