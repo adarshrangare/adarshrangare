@@ -28,6 +28,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adarshrangare&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrangare&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/adarshrangare/adarshrangare/output/snake.svg" alt="Snake animation" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
@@ -37,4 +39,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adarshrangare&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
