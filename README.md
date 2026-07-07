@@ -15,8 +15,8 @@
 - 💬 Ask me about **DSA, JAVA, HTML,CSS and JS, React,Next, Tailwind, NodeJS, MongoDB, SQL**
 
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/adarsh-rangare-a4572b100)
-
-- 📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1VdgorwV9W9S6VD1MlD-3ndgOovcn6nCS2QdSyBnehlo/edit?usp=sharing)
+<!---
+- 📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1VdgorwV9W9S6VD1MlD-3ndgOovcn6nCS2QdSyBnehlo/edit?usp=sharing) --->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adarshrangare007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarsh.ad007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-rangare-a4572b100) 
